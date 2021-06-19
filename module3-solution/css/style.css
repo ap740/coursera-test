@@ -1,0 +1,92 @@
+body{
+	font-size: 16px;
+	color: #000000;
+	background-color: #FFFFE0;
+}
+
+#header-nav{
+	background-color: #FFFF00;
+	border-radius: O;
+	border: O;
+	
+}
+
+div.navbar-header{
+	height: 100px;
+}
+
+#collapsable-nav{
+	padding: 0;
+}
+#nav-list{
+	padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background-color: #FFA500;
+}
+li{
+	background-color: #FFA500;
+	border: 1px solid #000000;
+	padding-top: -10px;
+}
+
+#p1{
+	float: right;
+	background-color: #FF0000;
+	color: #000000;
+	margin: 0;
+	border: 1px solid black;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#p2{
+	float: right;
+	background-color: #FFA500;
+	color: #000000;
+	margin: 0;
+	border: 1px solid black;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#p3{
+	float: right;
+	background-color: #FFFF00;
+	color: #000000;
+	margin: 0;
+	border: 1px solid black;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+section{
+	clear: right;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.row{
+	width=100%;
+	background-color: #FFFFFF;
+	border: 0;
+}
+
+div.col-md-4.col-sm-6.col-xs-12{
+	border: 10px solid white;
+	background-color: #EDDA74;
+	width=90%;
+}
+
+div.col-md-4.col-sm-12.col-xs-12{
+	border: 10px solid white;
+	background-color: #EDDA74;
+	width=90%;
+}
